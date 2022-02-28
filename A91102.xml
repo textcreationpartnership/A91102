@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions sent from His Highnesse the Prince of Wales, to the right honorable the House of Peers, concerning an agreement between His Royal Father, and the Parliament; as also, concerning the citizens of London, the Scots army, and the navy in the downs. Directed to his beloved cozin, the speaker of the House of Lords, pro tempore; and signed, Charles P. Likewise the Kings declaration on Munday last to the Parl. Commisssioners. [sic] And their letter to both houses. For peace.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91102</idno>
+            <idno type="STC">Wing P3781</idno>
+            <idno type="STC">Thomason E452_6</idno>
+            <idno type="STC">ESTC R205028</idno>
+            <idno type="EEBO-CITATION">99864472</idno>
+            <idno type="PROQUEST">99864472</idno>
+            <idno type="VID">162089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162089)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E458[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions sent from His Highnesse the Prince of Wales, to the right honorable the House of Peers, concerning an agreement between His Royal Father, and the Parliament; as also, concerning the citizens of London, the Scots army, and the navy in the downs. Directed to his beloved cozin, the speaker of the House of Lords, pro tempore; and signed, Charles P. Likewise the Kings declaration on Munday last to the Parl. Commisssioners. [sic] And their letter to both houses. For peace.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Powell, Rice.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R.VV.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In three parts. The first signed: Charles P.; the second signed: R. Powel; the third dated: Colchester Aug. 10. 1648.</note>
+                  <note>Annotation on Thomason copy: "Aug. 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Peers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162089:1" rendition="simple:additions"/>
+            <p>New Propositions SENT From His Highneſſe the Prince of <hi>Wales,</hi> to the Right Honorable the Houſe of Peers, concerning an Agree<g ref="char:EOLhyphen"/>ment between His Royal Father, and the <hi>Parliament;</hi> as alſo, concerning the Citizens of <hi>London,</hi> the <hi>Scots</hi> army, and the Navy in the Downs. <hi>Directed to his beloved Co<g ref="char:EOLhyphen"/>zin, the Speaker of the Houſe of Lords,</hi> pro tempore; and Signed, CHARLES P.</p>
+            <p>Likewiſe the Kings <hi>Declaration</hi> on Munday laſt to the <hi>Parl. Commsſſioners.</hi> And their Letter to both Houſes.</p>
+            <figure>
+               <figDesc>portrait of the prince Charles</figDesc>
+            </figure>
+            <figure/>
+            <p>
+               <add>Aug: 11</add> Imprinted at <hi>London,</hi> for <hi>R.VV. AnnoDom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162089:2"/>
+            <pb n="1" facs="tcp:162089:2"/>
+            <head>PRINCE CHARLES HIS MESSAGE TO The Right Honourable the Houſe of Peers, directed to his beloved Couzin, the Speaker of the Houſe of Peers, <hi>pro tempore.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Highneſſe the Prince of <hi>Wales,</hi> having ſeriouſly weighed the reſults and Pro<g ref="char:EOLhyphen"/>ceedings of both Houſes of Parliament in relation to a perſonall Treaty with his Father, reſolved to declare his ſenſe to the Right Honourable the Houſe of Peers, and to faciliate the ſame, a gene<g ref="char:EOLhyphen"/>rall Councell was called aboard the Fleet Royall in the Downs, where was preſent divers Lords, Knights, and Gentle<g ref="char:EOLhyphen"/>men,
+<pb n="2" facs="tcp:162089:3"/>and after ſome debate in relation to the progreſſe and proceedings of both houſes, concerning a perſonall Treaty with the Kings Majeſty, they agreed upon theſe Propoſals and Deſires following, <hi>viz.</hi>
+            </p>
+            <q>
+               <p n="1">1. That the Treaty be in ſuch place and manner as may con<g ref="char:EOLhyphen"/>ſiſt with honour, freedom, and ſafety of his Majeſty, his Father ſo that the agreement may not be blemiſhed with any face of re<g ref="char:EOLhyphen"/>ſtraint.</p>
+               <p n="2">2. That the Treaty be between the King and his two King<g ref="char:EOLhyphen"/>doms of <hi>England and Scotland,</hi> that things may go on fairly to all perſons concerned therein.</p>
+               <p n="3">3 That during the Treaty, there be a generall ceſsation of Arms, that the affection of the People, of this or the other King<g ref="char:EOLhyphen"/>dom be not leſsed by acts of hoſtility, but may meet in kindneſse, and nothing diſturb the Treaty.</p>
+               <p n="4">4 That an ordinary moderate ſubstance during the Treaty, may be agreed upon for all Armies and Forces now on Foot, and particularly, which must in no caſe go unmentioned, the <hi>Scots</hi> Army now in <hi>England,</hi> and in ſuch a manner as may be with the least preſsure of the Northern parts.</p>
+               <p n="5">5 That if the two Houſes will agree to theſe things, he will endeavour to his utmost power with his Father for a good agre<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="6">6 That He deſires ſome courſe may be taken to content Him and his ſhips now in the Downs, with money and proviſion, that ſo he nor they may hinder the City trade, and diſcharge the ſhips he hath now in hold.</p>
+            </q>
+            <p>This Meſſage, from His Highneſſe the Prince of <hi>Wales</hi> were communicated to the Houſe of Peers, and read, and</p>
+            <argument>
+               <p>Signed,
+<hi>CHARLES P.</hi>
+               </p>
+            </argument>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:162089:3"/>
+            <head>The Kings Majesties Declaration to the Commiſſioners of both Houſes of Parliament, concerning a ſpeedy compoſure of all differences.</head>
+            <p>ON Wedneſday laſt Aug. 9. Letters were read in both Houſes of Parliament from the Earl of <hi>Middleſex,</hi> and the reſt of their Commiſſioners, which were ſent to the King with a meſſage for Peace, purporting, <hi>That notwith<g ref="char:EOLhyphen"/>ſtanding the great ſtorms) they arrived ſafe in the Iſle of</hi> Wight <hi>upon Satterday laſt, and after ſome ſhort time of refreſhment, went up to</hi> Carisbrook to <hi>Col.</hi> Hammond <hi>the Governour, and after ſome congratulations, acquainted him, That they had a Meſſage from both Houſes of Parliament to preſent to the King, in relation to a ſafe and well-grounded peace, intimating he limits of their time, &amp;c.</hi> Whereupon, his majeſty were ac<g ref="char:EOLhyphen"/>quainted with the arrivall of the ſaid Commiſſioners, who ſeemed to be very pleaſant thereat, and upon Munday laſt, in the forenoon, the Earl of <hi>Middleſex,</hi> and the reſt of the Com<g ref="char:EOLhyphen"/>miſſioners were ſent for into his Majeſties Privie Chamber, where they preſented unto Him, the Votes of both Houſes of Parliament, for a Perſonall Treaty with his Majeſty, in honour, freedom, and ſafety; and after his Majeſty had read the ſame, he ſeemed to have a great willingneſſe to comply thereunto who declared, <hi>That he liked very well of the termes of freedome, honour, and ſafety, but being without Secretary, or o<g ref="char:EOLhyphen"/>ther Aſſiſtant, He could not ſo ſuddenly give them an Anſwer as otherwiſe, yet before their time limited were expired, He would return an Anſwer.</hi>
+            </p>
+            <p>So that it is hoped, there will be a happy compoſure of al differences between the King and his People, and the bleeding wounds of this Kingdom healed, and preſerved from future inſurrections, and Warlike commotions.</p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:162089:4"/>
+            <head>A Declaration of the Kings Majesties Officers and Souldiers.</head>
+            <p>IT is notorious enough upon what grounds this war was by us undertaken how the ſaults of the Government pre<g ref="char:EOLhyphen"/>cedent were laid open and reformation promiſed, wherein the true Religion ſhould be advantaged the King made great and glorious, the juſt priviledges of Parliament the Lawes of the Land, and the liberty of the people maintained. But now how much our expectations have failed us, and how we have run into thoſe evils which we fought againſt, is at laſt too apparent unto us, who would not at the firſt believe the things we now ſee, inſomuch that the errours of the former Government are now ſo farre exceeded both in Church and Common-wealth, that they are either juſtifi<g ref="char:EOLhyphen"/>ed, or at leaſt ſo much excuſed, as that it is deſired by the moſt and beſt of men, rather to injoy the former again, then to ſuffer ſuch a reformation wherein the Publike good is pretended, and the perticular ends of the reformers intended for although our party have prevailed almoſt theſe two years, yet the things promiſed to be reformed, and which we fought for, are ſcarce ſo much as entred into or deba<g ref="char:EOLhyphen"/>ted, but clean contrary things now acted.</p>
+            <p>The King inſtead of comming to his Parliament, to treat perſonally with his two Houſes impriſoned, inſtead of be<g ref="char:EOLhyphen"/>ing made great and glorious, is become the moſt infortu<g ref="char:EOLhyphen"/>nate in the world, and great and glorious onely in piety, pa<g ref="char:EOLhyphen"/>tience and pitty: our Religion, Lawes, and Liberties tramp<g ref="char:EOLhyphen"/>led upon and deſtroyed, and the greateſt tyranny and arbi<g ref="char:EOLhyphen"/>trary power ſet up over us, that the wit of man, or malice of the Divel can invent, and al this but to ſatisfie the avarice of a few men, who by accuſing their brethren, have alrea<g ref="char:EOLhyphen"/>dy gotten too much power into their hands, and do now la<g ref="char:EOLhyphen"/>bour to disband us not to eaſe the Country, as is pretended,
+<pb n="5" facs="tcp:162089:4"/>but as we are able to prove by their own Letters and words to bring in other forces, ſuch as may execute their wils, and make the Country ſubject to ſequeſtration, enſlave the peo<g ref="char:EOLhyphen"/>ple, and to uſe their own words, rowle the Country before them, and to eſtabliſh the Exciſe, taxes, and other intollerable charges, not to be avoided without the efffuſion of more blood then ever hath yet been ſhed in this quarrel, unleſſe God of his infinite mercy pleaſe to divert it by ſome means not apearing unto us, &amp; that they might as much as in them lies, deſtroy our ſouls as wel as our bodies. They go about to put down the Book of Common-prayer in theſe parts, as they already have done in the seſt of the Kingdom, which will be more wanted here then in other parts, becauſe the boook of Common-prayer, is the ſole comfort of the peo<g ref="char:EOLhyphen"/>ple here, and their way to attein the knowledge of the prin<g ref="char:EOLhyphen"/>ciples of Religion, and to ſerve God. Theſe things, though evident in themſelves, yet we ſhalbe ready to make proof as occaſion ſhall require: and therfore that the whole world may ſee our in tegrity, as well in our undertrking this war in the beginning and our carriage hitherto, as of our intenti<g ref="char:EOLhyphen"/>ons for the future we do now declare. That we do ſtil con<g ref="char:EOLhyphen"/>tinue firm to our firſt principles, to bring the King a Perſo<g ref="char:EOLhyphen"/>nal treaty with his Parliament, with freedom, honor, and ſaf<g ref="char:EOLhyphen"/>ty that ſo the juſt prerogatives of the King, priviledges of Parl. Laws of the Land, and liberty of the people, may be al eſtabliſhed and preſerved in their proper bounds. That we wil, as much as in us lies protect the people from injury, and maintain the Proteſtant Religion, and the Common-prayer as is eſtabliſhed by Law in this Land, and do therfote crave the aſſiſtance of the whole Kirgdom herein.</p>
+            <closer>
+               <signed>Signed, R. POWEL.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:162089:5"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe <hi>Colcheſterians</hi> hath drawn off moſt of their Ord<g ref="char:EOLhyphen"/>nance from the Wall, and we conceive they intend to fortifie the ſtreets, that ſo they may be able to keep that ſhor<g ref="char:EOLhyphen"/>ter line with fewer men; others believe, that they will quit the town and retire to the Caſtle, where they are building, therefore, to keep all in is ſure the beſt way; and it is ſaid, they will carry our Committee along with them into the Caſtle and cut their throats, if they may not have conditions for themſelves. Yeſterday they killed 30 horſes to powder up, their Wine and Raiſins are neer ſpent, Rice and Corn begins to grow ſhort. One of their Guards deſerted their truſt, and quitted them, and came in to the Lord Generall, who ſayes, that they are fortifying the ſtreets, and making great Works about the Caſtle, and are reſolved, if his Excellency ſtormes, to diſpute the town from the Walls to their inner Workes, and from their Works to the Caſtle.</p>
+            <p>Yet notwithſtanding, we expect a ſtorm every day, for its conceiv'd his Excellency hath ſome deſign on foot to ſhor<g ref="char:EOLhyphen"/>ten the work of <hi>Colcheſter.</hi>
+            </p>
+            <closer>
+               <dateline>Colcheſter <date>Aug. 10. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
